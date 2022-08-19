@@ -15,7 +15,7 @@ I have 3 months of Internship experience and 7 months of part-time working stude
 
 ### Work Experience
 
-**WORKING STUDENT & MASTER THESIS at FRAUNHOFER FEP, DRESDEN**   &nbsp 01/2022 - present
+**WORKING STUDENT & MASTER THESIS at FRAUNHOFER FEP, DRESDEN**  p 01/2022 - present
 
 
 
@@ -24,47 +24,47 @@ I have 3 months of Internship experience and 7 months of part-time working stude
        
 
 
-**TECHNOLOGY CONSULTANT at Virtusa Consulting Services, INDIA**   &nbsp  11/2019 - 09/2020
+**TECHNOLOGY CONSULTANT at Virtusa Consulting Services, INDIA**    11/2019 - 09/2020
 
 - Worked under Data Consumption team at one of the Asian Bank  
 - Developed the Data consumption pipeline to process data from various banking sources using Hive and PySpark.
 
-**SOFTWARE DEVELOPER at Sysbiz Technologies, INDIA**  &nbsp  Jan/2019 – Nov/2019
+**SOFTWARE DEVELOPER at Sysbiz Technologies, INDIA**    Jan/2019 – Nov/2019
 
 - Built the heterogeneous integrated analysis platform to handle data sources for financial and health care products.
 - Developed the data analysis platform using Hive and Pyspark and orchestrated the pipeline workflow using NIfi.
 - Handles the security protocols in the platform and deployed in the GCP cloud.
 
-**SYSTEM ENGINEER at TATA Consulting Services, INDIA**    &nbsp  Oct/2015– Jan/2019
+**SYSTEM ENGINEER at TATA Consulting Services, INDIA**   Oct/2015– Jan/2019
 
-•	Worked under Hadoop platform development team at one of the American bank.
-•	Developed the data processing pipeline to extract data from various relational databases to Hadoop platform using Sqoop and Hive.
-•	Experienced in handling production outages in critical situations.
+- Worked under Hadoop platform development team at one of the American bank.
+- Developed the data processing pipeline to extract data from various relational databases to Hadoop platform using Sqoop and Hive.
+- Experienced in handling production outages in critical situations.
 
 ### Academic Project
-METRICS FOR EVALUATING CLASS ACTIVATION MAPPING(CAM) TECHNIQUES – Research Project
-•	Proposed the new metrics based on the impact of irrelevant features and experimented with four different CAM methods on three pre-defined models using two different dataset.
-•	Research was implemented using Open CV, Tensorflow and Keras.
-•	Based on the results the proposed new metrics are suitable for evaluating CAM for better model understanding when compared to the current metrics.
+**METRICS FOR EVALUATING CLASS ACTIVATION MAPPING(CAM) TECHNIQUES – Research Project**
+-	Proposed the new metrics based on the impact of irrelevant features and experimented with four different CAM methods on three pre-defined models using two different dataset.
+-	Research was implemented using Open CV, Tensorflow and Keras.
+-	Based on the results the proposed new metrics are suitable for evaluating CAM for better model understanding when compared to the current metrics.
 
-DATA INSIGHT FROM Covid Vaccine Dataset:  - Research Seminar 
-•	 Gathered data from twitter hashtag and cleaning the dataset using Pandas.
-•	 Analysed the data and created various data insights using pandas and provided visual solutions using matplot to various research questions. 
+**DATA INSIGHT FROM Covid Vaccine Dataset:  - Research Seminar** 
+-	 Gathered data from twitter hashtag and cleaning the dataset using Pandas.
+-	 Analysed the data and created various data insights using pandas and provided visual solutions using matplot to various research questions. 
 
-Prediction of Energy Data Consumption:  -Mini project
-•	Cleaned and pre-processed the time series data using pandas.
-•	Built the LSTM -based model to prediction of energy consumption for set of tasks using Tensorflow and keras.
+**Prediction of Energy Data Consumption:  -Mini project**
+-	Cleaned and pre-processed the time series data using pandas.
+-	Built the LSTM -based model to prediction of energy consumption for set of tasks using Tensorflow and keras.
 
-Analysing the Depth of RNN: - Mini Project
-•	Generated the time series data based on the Lorenz equation using python.
-•	 Analysing the behavior of the Encoder-Decoder RNN architectural depth by adjusting its hyperparameters using Tensorflow and Keras.
+**Analysing the Depth of RNN: - Mini Project**
+-	Generated the time series data based on the Lorenz equation using python.
+-	 Analysing the behavior of the Encoder-Decoder RNN architectural depth by adjusting its hyperparameters using Tensorflow and Keras.
 
-Education
+###Education
 
-10/2020 - Present       M.SC: Research in Computer and System Engineering, TU ILMENAU            Grade*: 2.47
-07/2011 - 04/2015     BACHELOR OF ENGINEERING: Computer Science and Engineering, INDIA    Final Grade: 7.40/10 
-Language
-German - level A1 and level A2*, English - very fluent , Tamil -Mother tongue.
+**10/2020 - Present**       M.SC: Research in Computer and System Engineering, TU ILMENAU            Grade*: 2.47
+**07/2011 - 04/2015**     BACHELOR OF ENGINEERING: Computer Science and Engineering, INDIA    Final Grade: 7.40/10 
+###Language
+**German** - level A1 and level A2*, **English** - very fluent , **Tamil** -Mother tongue.
 
 
 - 📍Dresden, Deutschland
