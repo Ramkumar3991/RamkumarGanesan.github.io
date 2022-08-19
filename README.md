@@ -74,7 +74,7 @@ I have 3 months of Internship experience and 7 months of part-time working stude
 - **[Hackerrank]** (https://www.hackerrank.com/ramblackgroove)
 - **[Leetcode]**(https://leetcode.com/ramblackgroove/)
  
-
-- 📍Dresden, Germany
-- 📧 ramkumar19931112@gmail.com
-- [Linkedin](https://www.linkedin.com/in/ram-kumar-869707a1/)
+ 
+📍Dresden, Germany
+📧 ramkumar19931112@gmail.com
+[Linkedin](https://www.linkedin.com/in/ram-kumar-869707a1/)
