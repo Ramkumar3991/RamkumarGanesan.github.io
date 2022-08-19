@@ -16,21 +16,21 @@ I have 3 months of Internship experience and 7 months of part-time working stude
 ### Work Experience
 
 **WORKING STUDENT & MASTER THESIS at FRAUNHOFER FEP, DRESDEN**   01/2022 - present
-
-
-
+- Writing the Master thesis on the Topic:  Neural networks for the analysis of measurement data in OLED micro-display manufacturing.
+- Building an integrated architecture for Image segmentation and classification.
+- Developing the model to segment micro and classify the OLED micro-display images into the defect and non-defect categories and further classifying the defect types.
+- Analyzing the developed model using various hyper parameters and evaluating the model's performance.
 
 **INTERN at FRAUNHOFER FEP, DRESDEN**   10/2021 - 12/2021    .
-       
-
+- Built a lightweight classification model to classify the micro-display images into the defect and non-defect categories using Keras and TensorFlow.
+- Labeled the micro-display images and pre-processed the images using open CV.
+- The model achieves 91% accuracy on one variant and 98% accuracy on other variant images.
 
 **TECHNOLOGY CONSULTANT at Virtusa Consulting Services, INDIA**    11/2019 - 09/2020
-
 - Worked under Data Consumption team at one of the Asian Bank  
 - Developed the Data consumption pipeline to process data from various banking sources using Hive and PySpark.
 
 **SOFTWARE DEVELOPER at Sysbiz Technologies, INDIA**    Jan/2019 – Nov/2019
-
 - Built the heterogeneous integrated analysis platform to handle data sources for financial and health care products.
 - Developed the data analysis platform using Hive and Pyspark and orchestrated the pipeline workflow using NIfi.
 - Handles the security protocols in the platform and deployed in the GCP cloud.
