@@ -67,12 +67,12 @@ I have 3 months of Internship experience and 7 months of part-time working stude
 ### Language
 **German** - level A1 and level A2*, **English** - very fluent , **Tamil** -Mother tongue.
 
-### certificates
+### certificate
 **[SQL Basic]**(https://www.hackerrank.com/certificates/db9e5d453d0d)
 
 ### Other Activities
-**[Hackerrank]** (https://www.hackerrank.com/ramblackgroove)
-**[Leetcode]**(https://leetcode.com/ramblackgroove/)
+- **[Hackerrank]** (https://www.hackerrank.com/ramblackgroove)
+- **[Leetcode]**(https://leetcode.com/ramblackgroove/)
  
 
 - 📍Dresden, Germany
