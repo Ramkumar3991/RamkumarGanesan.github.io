@@ -76,5 +76,5 @@ I have 3 months of Internship experience and 7 months of part-time working stude
  
  
 📍Dresden, Germany
-📧 ramkumar19931112@gmail.com
-[Linkedin](https://www.linkedin.com/in/ram-kumar-869707a1/)
+- 📧 ramkumar19931112@gmail.com
+- [Linkedin](https://www.linkedin.com/in/ram-kumar-869707a1/)
