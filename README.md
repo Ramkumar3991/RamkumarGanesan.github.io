@@ -59,11 +59,11 @@ I have 3 months of Internship experience and 7 months of part-time working stude
 -	Generated the time series data based on the Lorenz equation using python.
 -	 Analysing the behavior of the Encoder-Decoder RNN architectural depth by adjusting its hyperparameters using Tensorflow and Keras.
 
-###Education
+### Education
 
 **10/2020 - Present**       M.SC: Research in Computer and System Engineering, TU ILMENAU            Grade*: 2.47
 **07/2011 - 04/2015**     BACHELOR OF ENGINEERING: Computer Science and Engineering, INDIA    Final Grade: 7.40/10 
-###Language
+### Language
 **German** - level A1 and level A2*, **English** - very fluent , **Tamil** -Mother tongue.
 
 
