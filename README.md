@@ -68,7 +68,7 @@ I have 3 months of Internship experience and 7 months of part-time working stude
 **German** - level A1 and level A2*, **English** - very fluent , **Tamil** -Mother tongue.
 
 ### certificate
-[SQL Basic](https://www.hackerrank.com/certificates/db9e5d453d0d)
+[HackerRank SQL Basic Certification ](https://www.hackerrank.com/certificates/db9e5d453d0d)
 
 ### Other Activities
 - [Hackerrank](https://www.hackerrank.com/ramblackgroove)
