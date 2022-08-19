@@ -35,7 +35,7 @@ I have 3 months of Internship experience and 7 months of part-time working stude
 - Developed the data analysis platform using Hive and Pyspark and orchestrated the pipeline workflow using NIfi.
 - Handles the security protocols in the platform and deployed in the GCP cloud.
 
-**SYSTEM ENGINEER at TATA Consulting Services, INDIA**   Oct/2015– Jan/2019
+**SYSTEM ENGINEER at TATA Consulting Services, INDIA**   Oct/2015 – Jan/2019
 
 - Worked under Hadoop platform development team at one of the American bank.
 - Developed the data processing pipeline to extract data from various relational databases to Hadoop platform using Sqoop and Hive.
@@ -51,7 +51,7 @@ I have 3 months of Internship experience and 7 months of part-time working stude
 -	 Gathered data from twitter hashtag and cleaning the dataset using Pandas.
 -	 Analysed the data and created various data insights using pandas and provided visual solutions using matplot to various research questions. 
 
-**Prediction of Energy Data Consumption:  -Mini project**
+**Prediction of Energy Data Consumption:  - Mini project**
 -	Cleaned and pre-processed the time series data using pandas.
 -	Built the LSTM -based model to prediction of energy consumption for set of tasks using Tensorflow and keras.
 
@@ -63,10 +63,18 @@ I have 3 months of Internship experience and 7 months of part-time working stude
 
 **10/2020 - Present**       M.SC: Research in Computer and System Engineering, TU ILMENAU            Grade*: 2.47
 **07/2011 - 04/2015**     BACHELOR OF ENGINEERING: Computer Science and Engineering, INDIA    Final Grade: 7.40/10 
+
 ### Language
 **German** - level A1 and level A2*, **English** - very fluent , **Tamil** -Mother tongue.
 
+### certificates
+**[SQL Basic]**(https://www.hackerrank.com/certificates/db9e5d453d0d)
 
-- 📍Dresden, Deutschland
+### Other Activities
+**[Hackerrank]** (https://www.hackerrank.com/ramblackgroove)
+**[Leetcode]**(https://leetcode.com/ramblackgroove/)
+ 
+
+- 📍Dresden, Germany
 - 📧 ramkumar19931112@gmail.com
 - [Linkedin](https://www.linkedin.com/in/ram-kumar-869707a1/)
