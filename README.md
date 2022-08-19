@@ -6,41 +6,42 @@ I have 3 months of Internship experience and 7 months of part-time working stude
 
 ### Skills
 
-- Programming Language    Python & Java(Basic Level).
-- Python Packages		      Numpy, Tensorflow, keras ,Pandas, Matplotlib, & sklearn.
-- Scripting Language	    Shell scripting.
-- Database    		        MySQL
-- Hadoop Tools   		      Spark, Hive, HDFS ,Sqoop, Nifi, Oozie and.
-- Application Tools       Putty, JIRA, Git, Eclipse,pycharm and Jupyter notebook.
+- Programming Language -- Python & Java(Basic Level).
+- Python Packages      -- Numpy, Tensorflow, keras ,Pandas, Matplotlib, & sklearn.
+- Scripting Language	   -- Shell scripting.
+- Database    		       -- MySQL
+- Hadoop Tools   		     -- Spark, Hive, HDFS ,Sqoop, Nifi, Oozie and.
+- Application Tools       --Putty, JIRA, Git, Eclipse,pycharm and Jupyter notebook.
 
-###Work Experience
-**WORKING STUDENT & MASTER THESIS** at **FRAUNHOFER FEP, DRESDEN**        01/2022 - present
+### Work Experience
+
+**WORKING STUDENT & MASTER THESIS at FRAUNHOFER FEP, DRESDEN**   &nbsp 01/2022 - present
 
 
 
 
-INTERN at FRAUNHOFER FEP, DRESDEN                                                               10/2021 - 12/2021    .
+**INTERN at FRAUNHOFER FEP, DRESDEN**  &nbsp 10/2021 - 12/2021    .
        
 
 
-TECHNOLOGY CONSULTANT at Virtusa Consulting Services, INDIA                  11/2019 - 09/2020
+**TECHNOLOGY CONSULTANT at Virtusa Consulting Services, INDIA**   &nbsp  11/2019 - 09/2020
 
-•	Worked under Data Consumption team at one of the Asian Bank  
-•	Developed the Data consumption pipeline to process data from various banking sources using Hive and PySpark.
+- Worked under Data Consumption team at one of the Asian Bank  
+- Developed the Data consumption pipeline to process data from various banking sources using Hive and PySpark.
 
-SOFTWARE DEVELOPER at Sysbiz Technologies                                           Jan/2019 – Nov/2019
-CHENNAI, INDIA
-•	Built the heterogeneous integrated analysis platform to handle data sources for financial and health care products.
-•	Developed the data analysis platform using Hive and Pyspark and orchestrated the pipeline workflow using NIfi.
-•	Handles the security protocols in the platform and deployed in the GCP cloud.
+**SOFTWARE DEVELOPER at Sysbiz Technologies, INDIA**  &nbsp  Jan/2019 – Nov/2019
 
-SYSTEM ENGINEER at TATA Consulting Services                                             Oct/2015– Jan/2019
-CHENNAI, INDIA
+- Built the heterogeneous integrated analysis platform to handle data sources for financial and health care products.
+- Developed the data analysis platform using Hive and Pyspark and orchestrated the pipeline workflow using NIfi.
+- Handles the security protocols in the platform and deployed in the GCP cloud.
+
+**SYSTEM ENGINEER at TATA Consulting Services, INDIA**    &nbsp  Oct/2015– Jan/2019
+
 •	Worked under Hadoop platform development team at one of the American bank.
 •	Developed the data processing pipeline to extract data from various relational databases to Hadoop platform using Sqoop and Hive.
 •	Experienced in handling production outages in critical situations.
 
-Academic Project
+### Academic Project
 METRICS FOR EVALUATING CLASS ACTIVATION MAPPING(CAM) TECHNIQUES – Research Project
 •	Proposed the new metrics based on the impact of irrelevant features and experimented with four different CAM methods on three pre-defined models using two different dataset.
 •	Research was implemented using Open CV, Tensorflow and Keras.
