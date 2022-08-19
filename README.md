@@ -15,12 +15,12 @@ I have 3 months of Internship experience and 7 months of part-time working stude
 
 ### Work Experience
 
-**WORKING STUDENT & MASTER THESIS at FRAUNHOFER FEP, DRESDEN**  p 01/2022 - present
+**WORKING STUDENT & MASTER THESIS at FRAUNHOFER FEP, DRESDEN**   01/2022 - present
 
 
 
 
-**INTERN at FRAUNHOFER FEP, DRESDEN**  &nbsp 10/2021 - 12/2021    .
+**INTERN at FRAUNHOFER FEP, DRESDEN**   10/2021 - 12/2021    .
        
 
 
