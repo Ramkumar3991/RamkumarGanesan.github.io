@@ -6,9 +6,14 @@ I have 3 months of Internship experience and 7 months of part-time working stude
 
 ## Skills
 
-- Programming Language   • Python & Java(Basic Level).
+- Programming Language   Python & Java(Basic Level).
 - Python Packages		     • Numpy, Tensorflow, keras ,Pandas, Matplotlib, & sklearn.
 - Scripting Language	   • Shell scripting.
 - Database    		       • MySQL
 - Hadoop Tools   		     • Spark, Hive, HDFS ,Sqoop, Nifi, Oozie and.
 - Application Tools      • Putty, JIRA, Git, Eclipse,pycharm and Jupyter notebook.
+
+
+📍Dresden, Deutschland
+📧 ramkumar19931112@gmail.com
+[Linkedin](https://www.linkedin.com/in/ram-kumar-869707a1/))
