@@ -2,16 +2,19 @@
 
 ### Profile Summary
 
-I have 3 months of Internship experience and 7 months of part-time working student experience in Germany, and 3.8 years of work experience in India, where I have worked in data engineering and machine learning domains. I am fluent in English and familiar with the fundamental of computer science, and good at writing codes in python and SQL. I am perceived as a problem solver and dedicated person. I am looking for a job as a Machine?Deep learning engineer, where I will use my skills and experience to enhance the business objective in an optimized way.
+I have 3 months of Internship experience and 7 months of working student experience in Germany, and 3.8 years of work experience in India, where I have worked in Data engineering, Deep learning (computer Vision & Natural Language processing) domains. I have good knowledge of informatics & Mathematics fundamentals and am good at machine learning algorithms and SQL. I am perceived as a problem solver & a dedicated person and am fluent in English & beginner in German. 
 
 ### Skills
 
 - Programming Language -- Python & Java(Basic Level).
-- Python Packages      -- Numpy, Tensorflow, keras ,Pandas, Matplotlib, & sklearn.
+- Python Packages      -- Numpy, Tensorflow, keras,Pytorch ,Pandas, Matplotlib, & sklearn.
 - Scripting Language	   -- Shell scripting.
 - Database    		       -- MySQL
-- Hadoop Tools   		     -- Spark, Hive, HDFS ,Sqoop, Nifi, Oozie.
-- Application Tools       --Putty, JIRA, Git, Eclipse,pycharm and Jupyter notebook.
+- Big Data Ecosystem   	-- Hadoop,Spark, Hive, HDFS ,Sqoop, Nifi, Oozie.
+- Application Tools       --Gitlab CI/CD, JIRA, Pycharm and Jupyter notebook.
+- Web Technologies        -- HTML & CSS (Basic LEVEL)  
+- Cloud                   --GCP
+
 
 ### Work Experience
 
@@ -28,10 +31,10 @@ I have 3 months of Internship experience and 7 months of part-time working stude
 
 **TECHNOLOGY CONSULTANT at Virtusa Consulting Services, INDIA**    11/2019 - 09/2020
 - Worked under Data Consumption team at one of the Asian Bank  
-- Developed the Data consumption pipeline to process data from various banking sources using Hive and PySpark.
+- Developed the Data consumption scripts to process data from various banking sources using Hive and Pyspark and saved 50 % time than existing scripts.
 
 **SOFTWARE DEVELOPER at Sysbiz Technologies, INDIA**    Jan/2019 – Nov/2019
-- Built the heterogeneous integrated analysis platform to handle data sources for financial and health care products.
+-	Built the heterogeneous integrated Data platform to handle batch or real time data sources for financial and health care products.
 - Developed the data analysis platform using Hive and Pyspark and orchestrated the pipeline workflow using NIfi.
 - Handles the security protocols in the platform and deployed in the GCP cloud.
 
