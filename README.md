@@ -2,18 +2,18 @@
 
 ### Profile Summary
 
-I have 3 months of Internship experience and 7 months of working student experience in Germany, and 3.8 years of work experience in India, where I have worked in Data engineering, Deep learning (computer Vision & Natural Language processing) domains. I have good knowledge of informatics & Mathematics fundamentals and am good at machine learning algorithms and SQL. I am perceived as a problem solver & a dedicated person and am fluent in English & beginner in German. 
+I am a experienced software engineer with over 4+ years of experience developing and implementing predictive modeling algorithms and data processing pipelines. I have a strong background in mathematics, statistics, and computer science, with a good understanding of machine learning and deep learning theoretical foundations. I am good at writing Python codes and SQL queries. I have a creative and innovative mindset in working with a large number of data for business insights. I have good interpersonal skills and an entrepreneurial way of working on products. I am enthusiastic about applying my skills to solve real-world problems. Currently, I am looking for a job as a Machine learning engineer & Data Scientist where I will use my technical & scientific skills and experience to enhance the business objective optimally.
 
 ### Skills
 
-- Programming Language -- Python & Java(Basic Level).
-- Python Packages      -- Numpy, Tensorflow, keras,Pytorch ,Pandas, Matplotlib, & sklearn.
+- Programming Language -- Python & R (Basic Level), Java(Basic Level).
+- Python Packages      -- Numpy, Tensorflow, keras,Pytorch,Pandas, Matplotlib,sklearn,XGBoost & Scipy.
 - Scripting Language	   -- Shell scripting.
-- Database    		       -- MySQL
+- Database    		       -- MySQL, Mongo (No SQL)
 - Big Data Ecosystem   	-- Hadoop,Spark, Hive, HDFS ,Sqoop, Nifi, Oozie.
-- Application Tools       --Gitlab CI/CD, JIRA, Pycharm and Jupyter notebook.
-- Web Technologies        -- HTML & CSS (Basic LEVEL)  
-- Cloud                   --GCP
+- Application Tools       --Gitlab CI/CD, Jenkins, Docker, Pycharm and Jupyter notebook.
+- Web Technologies        -- HTML & CSS (Basic LEVEL), Flask/Django (Basic Level) with APIs.  
+- Cloud                   -- AWS
 
 
 ### Work Experience
