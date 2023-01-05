@@ -19,8 +19,8 @@ I am a experienced software engineer with over 4+ years of experience developing
 ### Work Experience
 
 **WORKING STUDENT & MASTER THESIS at FRAUNHOFER FEP, DRESDEN**   01/2022 - present
--Proposed a neural-network-based CNN architecture for segmenting & classifying the OLED Microdisplay Images based on their quality and defect types categories. 
--Proposed model achieves up to 97% accuracy and saves time by a factor of 6 times higher than the existing system.
+- Proposed a neural-network-based CNN architecture for segmenting & classifying the OLED Microdisplay Images based on their quality and defect types categories. 
+- Proposed model achieves up to 97% accuracy and saves time by a factor of 6 times higher than the existing system.
 
 **INTERN at FRAUNHOFER FEP, DRESDEN**   10/2021 - 12/2021
 
@@ -30,17 +30,17 @@ I am a experienced software engineer with over 4+ years of experience developing
 
 **TECHNOLOGY CONSULTANT at Virtusa Consulting Services, INDIA**    11/2019 - 09/2020
 
--Developed many data processing pipelines to extract data from various RDBMS into the Hadoop environment using Sqoop, Hive, and pyspark and followed agile way of    developing pipelines.
+- Developed many data processing pipelines to extract data from various RDBMS into the Hadoop environment using Sqoop, Hive, and pyspark and followed agile way of    developing pipelines.
 
 **SOFTWARE DEVELOPER at Sysbiz Technologies, INDIA**    Jan/2019 – Nov/2019
 
--Involved in developing the heterogeneous data analysis platform, which ingests data from various sources into the Hadoop environment and handled all data-related activities related to business objectives.
--Developed many pipelines related to machine learning using the collected data according to the business requirements and deploying the ETL pipelines and trained AI models into the distributed environment (cloud).
+- Involved in developing the heterogeneous data analysis platform, which ingests data from various sources into the Hadoop environment and handled all data-related activities related to business objectives.
+- Developed many pipelines related to machine learning using the collected data according to the business requirements and deploying the ETL pipelines and trained AI models into the distributed environment (cloud).
 
 **SYSTEM ENGINEER at TATA Consulting Services, INDIA**   Oct/2015 – Jan/2019
 
--Involved in developing many ETL pipelines to extract data from various relational databases to the Hadoop platform using Sqoop & Apache Hive.
--Optimized the developed pipelines using optimization techniques related to the environment, which saved around 25% of the time than the current system.
+- Involved in developing many ETL pipelines to extract data from various relational databases to the Hadoop platform using Sqoop & Apache Hive.
+- Optimized the developed pipelines using optimization techniques related to the environment, which saved around 25% of the time than the current system.
 
 
 ### Academic Project
