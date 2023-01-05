@@ -6,43 +6,42 @@ I am a experienced software engineer with over 4+ years of experience developing
 
 ### Skills
 
-- Programming Language -- Python & R (Basic Level), Java(Basic Level).
-- Python Packages      -- Numpy, Tensorflow, keras,Pytorch,Pandas, Matplotlib,sklearn,XGBoost & Scipy.
+- Programming Language -- Python , R & Core JAVA.
+- Python Packages      -- Numpy, Tensorflow, keras, Pytorch,Pandas, Matplotlib, sklearn, XGBoost & Scipy.
 - Scripting Language	   -- Shell scripting.
 - Database    		       -- MySQL, Mongo (No SQL)
 - Big Data Ecosystem   	-- Hadoop,Spark, Hive, HDFS ,Sqoop, Nifi, Oozie.
 - Application Tools       --Gitlab CI/CD, Jenkins, Docker, Pycharm and Jupyter notebook.
-- Web Technologies        -- HTML & CSS (Basic LEVEL), Flask/Django (Basic Level) with APIs.  
-- Cloud                   -- AWS
+- Web Technologies        -- HTML & CSS (Basic LEVEL), Flask/Django (Basic Level) & Fast API 
+- Cloud                   -- AWS services
 
 
 ### Work Experience
 
 **WORKING STUDENT & MASTER THESIS at FRAUNHOFER FEP, DRESDEN**   01/2022 - present
-- Writing the Master thesis on the Topic:  Neural networks for the analysis of measurement data in OLED micro-display manufacturing.
-- Building an integrated architecture for Image segmentation and classification.
-- Developing the model to segment micro and classify the OLED micro-display images into the defect and non-defect categories and further classifying the defect types.
-- Analyzing the developed model using various hyper parameters and evaluating the model's performance.
+-Proposed a neural-network-based CNN architecture for segmenting & classifying the OLED Microdisplay Images based on their quality and defect types categories. 
+-Proposed model achieves up to 97% accuracy and saves time by a factor of 6 times higher than the existing system.
 
-**INTERN at FRAUNHOFER FEP, DRESDEN**   10/2021 - 12/2021    .
+**INTERN at FRAUNHOFER FEP, DRESDEN**   10/2021 - 12/2021
+
 - Built a lightweight classification model to classify the micro-display images into the defect and non-defect categories using Keras and TensorFlow.
 - Labeled the micro-display images and pre-processed the images using open CV.
 - The model achieves 91% accuracy on one variant and 98% accuracy on other variant images.
 
 **TECHNOLOGY CONSULTANT at Virtusa Consulting Services, INDIA**    11/2019 - 09/2020
-- Worked under Data Consumption team at one of the Asian Bank  
-- Developed the Data consumption scripts to process data from various banking sources using Hive and Pyspark and saved 50 % time than existing scripts.
+
+-Developed many data processing pipelines to extract data from various RDBMS into the Hadoop environment using Sqoop, Hive, and pyspark and followed agile way of    developing pipelines.
 
 **SOFTWARE DEVELOPER at Sysbiz Technologies, INDIA**    Jan/2019 – Nov/2019
--	Built the heterogeneous integrated Data platform to handle batch or real time data sources for financial and health care products.
-- Developed the data analysis platform using Hive and Pyspark and orchestrated the pipeline workflow using NIfi.
-- Handles the security protocols in the platform and deployed in the GCP cloud.
+
+-Involved in developing the heterogeneous data analysis platform, which ingests data from various sources into the Hadoop environment and handled all data-related activities related to business objectives.
+-Developed many pipelines related to machine learning using the collected data according to the business requirements and deploying the ETL pipelines and trained AI models into the distributed environment (cloud).
 
 **SYSTEM ENGINEER at TATA Consulting Services, INDIA**   Oct/2015 – Jan/2019
 
-- Worked under Hadoop platform development team at one of the American bank.
-- Developed the data processing pipeline to extract data from various relational databases to Hadoop platform using Sqoop and Hive.
-- Experienced in handling production outages in critical situations.
+-Involved in developing many ETL pipelines to extract data from various relational databases to the Hadoop platform using Sqoop & Apache Hive.
+-Optimized the developed pipelines using optimization techniques related to the environment, which saved around 25% of the time than the current system.
+
 
 ### Academic Project
 **METRICS FOR EVALUATING CLASS ACTIVATION MAPPING(CAM) TECHNIQUES – Research Project**
