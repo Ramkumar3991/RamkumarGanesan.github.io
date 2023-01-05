@@ -9,7 +9,7 @@ I am a experienced software engineer with over 4+ years of experience developing
 - Programming Language -- Python , R & Core JAVA.
 - Python Packages      -- Numpy, Tensorflow, keras, Pytorch,Pandas, Matplotlib, sklearn, XGBoost & Scipy.
 - Scripting Language	   -- Shell scripting.
-- Database    		       -- MySQL, Mongo (No SQL)
+- Database    		       -- MySQL, Mongo DB (No SQL)
 - Big Data Ecosystem   	-- Hadoop,Spark, Hive, HDFS ,Sqoop, Nifi, Oozie.
 - Application Tools       --Gitlab CI/CD, Jenkins, Docker, Pycharm and Jupyter notebook.
 - Web Technologies        -- HTML & CSS (Basic LEVEL), Flask/Django (Basic Level) & Fast API 
