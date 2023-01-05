@@ -63,7 +63,7 @@ I am a experienced software engineer with over 4+ years of experience developing
 
 ### Education
 
-- **10/2020 - Present**       M.SC: Research in Computer and System Engineering, TU ILMENAU            Grade*: 2.47
+- **10/2020 - Present**     M.SC: Research in Computer and System Engineering, TU ILMENAU            Grade*: 2.47
 - **07/2011 - 04/2015**     BACHELOR OF ENGINEERING: Computer Science and Engineering, INDIA    Final Grade: 7.40/10 
 
 ### Language
