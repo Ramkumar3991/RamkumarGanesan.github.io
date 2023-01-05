@@ -18,21 +18,21 @@ I am a experienced software engineer with over 4+ years of experience developing
 
 ### Work Experience
 
-**WORKING STUDENT & MASTER THESIS at FRAUNHOFER FEP, DRESDEN**   01/2022 - present
+**WORKING STUDENT & MASTER THESIS at FRAUNHOFER FEP, DRESDEN**   -- Jan/2022 - present
 - Proposed a neural-network-based CNN architecture for segmenting & classifying the OLED Microdisplay Images based on their quality and defect types categories. 
 - Proposed model achieves up to 97% accuracy and saves time by a factor of 6 times higher than the existing system.
 
-**INTERN at FRAUNHOFER FEP, DRESDEN**   10/2021 - 12/2021
+**INTERN at FRAUNHOFER FEP, DRESDEN**   -- Oct/2021 - Dec/2021
 
 - Built a lightweight classification model to classify the micro-display images into the defect and non-defect categories using Keras and TensorFlow.
 - Labeled the micro-display images and pre-processed the images using open CV.
 - The model achieves 91% accuracy on one variant and 98% accuracy on other variant images.
 
-**TECHNOLOGY CONSULTANT at Virtusa Consulting Services, INDIA**    11/2019 - 09/2020
+**TECHNOLOGY CONSULTANT at Virtusa Consulting Services, INDIA**    -- Nov/2019 - Sep/2020
 
 - Developed many data processing pipelines to extract data from various RDBMS into the Hadoop environment using Sqoop, Hive, and pyspark and followed agile way of    developing pipelines.
 
-**SOFTWARE DEVELOPER at Sysbiz Technologies, INDIA**    Jan/2019 – Nov/2019
+**SOFTWARE DEVELOPER at Sysbiz Technologies, INDIA**    -- Jan/2019 – Nov/2019
 
 - Involved in developing the heterogeneous data analysis platform, which ingests data from various sources into the Hadoop environment and handled all data-related activities related to business objectives.
 - Developed many pipelines related to machine learning using the collected data according to the business requirements and deploying the ETL pipelines and trained AI models into the distributed environment (cloud).
