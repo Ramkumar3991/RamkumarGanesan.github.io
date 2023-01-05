@@ -37,7 +37,7 @@ I am a experienced software engineer with over 4+ years of experience developing
 - Involved in developing the heterogeneous data analysis platform, which ingests data from various sources into the Hadoop environment and handled all data-related activities related to business objectives.
 - Developed many pipelines related to machine learning using the collected data according to the business requirements and deploying the ETL pipelines and trained AI models into the distributed environment (cloud).
 
-**SYSTEM ENGINEER at TATA Consulting Services, INDIA**   Oct/2015 – Jan/2019
+**SYSTEM ENGINEER at TATA Consulting Services, INDIA**   -- Oct/2015 – Jan/2019
 
 - Involved in developing many ETL pipelines to extract data from various relational databases to the Hadoop platform using Sqoop & Apache Hive.
 - Optimized the developed pipelines using optimization techniques related to the environment, which saved around 25% of the time than the current system.
@@ -63,8 +63,8 @@ I am a experienced software engineer with over 4+ years of experience developing
 
 ### Education
 
-- **10/2020 - Present**     M.SC: Research in Computer and System Engineering, TU ILMENAU       - Grade*: 2.47
-- **07/2011 - 04/2015**     BACHELOR OF ENGINEERING: Computer Science and Engineering, INDIA    - Final Grade: 7.40/10 
+- **10/2020 - Present**     M.SC: Research in Computer and System Engineering, TU ILMENAU       -- Grade*: 2.47
+- **07/2011 - 04/2015**     BACHELOR OF ENGINEERING: Computer Science and Engineering, INDIA    -- Final Grade: 7.40/10 
 
 ### Language
 **German** - level A1 and level A2*, **English** - very fluent , **Tamil** -Mother tongue.
