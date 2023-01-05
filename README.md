@@ -44,7 +44,7 @@ I am a experienced software engineer with over 4+ years of experience developing
 
 
 ### Academic Project
-**METRICS FOR EVALUATING CLASS ACTIVATION MAPPING(CAM) TECHNIQUES – Research Project**
+**METRICS FOR EVALUATING CLASS ACTIVATION MAPPING (CAM) TECHNIQUES – Research Project**
 -	Proposed the new metrics based on the impact of irrelevant features and experimented with four different CAM methods on three pre-defined models using two different dataset.
 -	Research was implemented using Open CV, Tensorflow and Keras.
 -	Based on the results the proposed new metrics are suitable for evaluating CAM for better model understanding when compared to the current metrics.
